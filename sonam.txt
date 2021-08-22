@@ -1,0 +1,11 @@
+#passphrase: Sonam123!
+
+
+git init     # to initiate git
+git remote add origin paste_https_address
+git status   # to check status of files
+git add .    # add all the files in the directory
+or
+git add nameoffile # to add a specific file
+git commit -m "write a message"
+git push # to push the added files
