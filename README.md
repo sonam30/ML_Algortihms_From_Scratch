@@ -8,10 +8,15 @@ The repository contains the implementation of Various Machine Learning algorithm
 The List of ALgorithms Implemented so far:
 
 **Regression Techniques
+
 - Linear Regression
+- 
 **Classification Techniques**
+
 - Logistic Regression
+
 **Dimensionality Reduction Techniques**
+
 - Principal Component Analysis
 
 
