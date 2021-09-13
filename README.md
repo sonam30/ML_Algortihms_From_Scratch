@@ -10,7 +10,6 @@ The List of ALgorithms Implemented so far:
 **Regression Techniques**
 
 - Linear Regression
-- 
 **Classification Techniques**
 
 - Logistic Regression
